@@ -1,3 +1,3 @@
 # Stitches Base Setup
 
-Minimal setup to start a fresh new project with StitchesJS, TS, Vite & ReactJS
+Minimal setup to start a fresh new project with Stitches, TS, Vite & ReactJS
